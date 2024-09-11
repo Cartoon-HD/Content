@@ -1,58 +1,61 @@
 {
-    "cartoons": [
-      {
-        "title": "Cartoon 1",
-        "seasons": [
-          {
-            "seasonNumber": 1,
-            "episodes": [
-              {
-                "episodeNumber": 1,
-                "title": "Episode Title 1",
-                "duration": "22:00",
-                "description": "Description of the episode.",
-                "link": "https://ia601502.us.archive.org/30/items/abtal_aldigetal_s1_01/abtal_aldigetal_s1_01.mp4"
-              },
-              {
-                "episodeNumber": 2,
-                "title": "Episode Title 2",
-                "duration": "22:00",
-                "description": "Description of the episode.",
-                "link": "https://ia601502.us.archive.org/30/items/abtal_aldigetal_s1_01/abtal_aldigetal_s1_01.mp4"
-              }
-            ]
-          },
-          {
-            "seasonNumber": 2,
-            "episodes": [
-              {
-                "episodeNumber": 1,
-                "title": "Episode Title 1",
-                "duration": "22:00",
-                "description": "Description of the episode.",
-                "link": "https://ia601502.us.archive.org/30/items/abtal_aldigetal_s1_01/abtal_aldigetal_s1_01.mp4"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Cartoon 2",
-        "seasons": [
-          {
-            "seasonNumber": 1,
-            "episodes": [
-              {
-                "episodeNumber": 1,
-                "title": "Episode Title 1",
-                "duration": "22:00",
-                "description": "Description of the episode.",
-                "link": "https://ia601502.us.archive.org/30/items/abtal_aldigetal_s1_01/abtal_aldigetal_s1_01.mp4"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+  "cartoons": [
+    {
+      "title": "Cartoon 1",
+      "cartoonImage": "https://images.withthewill.net/digimon_season1subbed_may3_2023.jpg",
+      "additionalImage": "https://www.escapistmagazine.com/wp-content/uploads/2024/04/Digimon-Adventure.jpg?fit=1200%2C675",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Episode Title 1",
+              "duration": "22:00",
+              "description": "Description of the episode.",
+              "link": "https://ia601502.us.archive.org/30/items/abtal_aldigetal_s1_01/abtal_aldigetal_s1_01.mp4"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Episode Title 2",
+              "duration": "22:00",
+              "description": "Description of the episode.",
+              "link": "https://ia601502.us.archive.org/30/items/abtal_aldigetal_s1_01/abtal_aldigetal_s1_01.mp4"
+            }
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Episode Title 1",
+              "duration": "22:00",
+              "description": "Description of the episode.",
+              "link": "https://ia601502.us.archive.org/30/items/abtal_aldigetal_s1_01/abtal_aldigetal_s1_01.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cartoon 2",
+      "cartoonImage": "https://images-na.ssl-images-amazon.com/images/G/01/dvd/AE/DM1L._V391034618_.jpg",
+      "additionalImage": "https://hero-club.com/soundouts-top-8-favorite-digimon-series/",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Episode Title 1",
+              "duration": "22:00",
+              "description": "Description of the episode.",
+              "link": "https://ia601502.us.archive.org/30/items/abtal_aldigetal_s1_01/abtal_aldigetal_s1_01.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
