@@ -2,8 +2,11 @@
   "cartoons": [
     {
       "title": "Cartoon 1",
+      "titleAr": "كارتون ١",
       "cartoonImage": "https://images.withthewill.net/digimon_season1subbed_may3_2023.jpg",
-      "additionalImage": "https://www.escapistmagazine.com/wp-content/uploads/2024/04/Digimon-Adventure.jpg?fit=1200%2C675",
+      "episodeImage": "https://www.escapistmagazine.com/wp-content/uploads/2024/04/Digimon-Adventure.jpg?fit=1200%2C675", 
+      "trailerLink": "https://example.com/trailer1.mp4",
+      "mp3Link": "https://example.com/cartoon1.mp3",
       "seasons": [
         {
           "seasonNumber": 1,
@@ -40,8 +43,11 @@
     },
     {
       "title": "Cartoon 2",
+      "titleAr": "كارتون ٢",
       "cartoonImage": "https://images-na.ssl-images-amazon.com/images/G/01/dvd/AE/DM1L._V391034618_.jpg",
-      "additionalImage": "https://hero-club.com/soundouts-top-8-favorite-digimon-series/",
+      "episodeImage": "https://hero-club.com/soundouts-top-8-favorite-digimon-series/", 
+      "trailerLink": "https://example.com/trailer2.mp4",
+      "mp3Link": "https://example.com/cartoon2.mp3",
       "seasons": [
         {
           "seasonNumber": 1,
