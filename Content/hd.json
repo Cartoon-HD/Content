@@ -16,14 +16,7 @@
               "title": "Episode Title 1",
               "duration": "22:00",
               "description": "Description of the episode.",
-              "link": "https://archive.org/download/d.remi01/Chd/Coll01/d.remi/d.remi01.mp4"
-            },
-            {
-              "episodeNumber": 2,
-              "title": "Episode Title 2",
-              "duration": "22:00",
-              "description": "Description of the episode.",
-              "link": "https://archive.org/download/d.remi01/Chd/Coll01/d.remi/d.remi01.mp4"
+              "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi01.mp4"
             }
           ]
         },
@@ -57,8 +50,183 @@
               "title": "Episode Title 1",
               "duration": "22:00",
               "description": "Description of the episode.",
-              "link": "https://ia601502.us.archive.org/30/items/abtal_aldigetal_s1_01/abtal_aldigetal_s1_01.mp4"
-            }
+              "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi01.mp4"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Episode Title 2",
+              "duration": "22:00",
+              "description": "Description of the episode.",
+              "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi02.mp4"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Episode Title 2",
+              "duration": "22:00",
+              "description": "Description of the episode.",
+              "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi03.mp4"
+            },
+            {
+    "episodeNumber": 4,
+    "title": "Episode Title 4",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi04.mp4"
+  },
+  {
+    "episodeNumber": 5,
+    "title": "Episode Title 5",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi05.mp4"
+  },
+  {
+    "episodeNumber": 6,
+    "title": "Episode Title 6",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi06.mp4"
+  },
+  {
+    "episodeNumber": 7,
+    "title": "Episode Title 7",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi07.mp4"
+  },
+  {
+    "episodeNumber": 8,
+    "title": "Episode Title 8",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi08.mp4"
+  },
+  {
+    "episodeNumber": 9,
+    "title": "Episode Title 9",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi09.mp4"
+  },
+  {
+    "episodeNumber": 10,
+    "title": "Episode Title 10",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi10.mp4"
+  },
+  {
+    "episodeNumber": 11,
+    "title": "Episode Title 11",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi11.mp4"
+  },
+  {
+    "episodeNumber": 12,
+    "title": "Episode Title 12",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi12.mp4"
+  },
+  {
+    "episodeNumber": 13,
+    "title": "Episode Title 13",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi13.mp4"
+  },
+  {
+    "episodeNumber": 14,
+    "title": "Episode Title 14",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi14.mp4"
+  },
+  {
+    "episodeNumber": 15,
+    "title": "Episode Title 15",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi15.mp4"
+  },
+  {
+    "episodeNumber": 16,
+    "title": "Episode Title 16",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi16.mp4"
+  },
+  {
+    "episodeNumber": 17,
+    "title": "Episode Title 17",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi17.mp4"
+  },
+  {
+    "episodeNumber": 18,
+    "title": "Episode Title 18",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi18.mp4"
+  },
+  {
+    "episodeNumber": 19,
+    "title": "Episode Title 19",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi19.mp4"
+  },
+  {
+    "episodeNumber": 20,
+    "title": "Episode Title 20",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi20.mp4"
+  },
+   {
+    "episodeNumber": 21,
+    "title": "Episode Title 20",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi21.mp4"
+  },
+   {
+    "episodeNumber": 22,
+    "title": "Episode Title 20",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi22.mp4"
+  },
+   {
+    "episodeNumber": 23,
+    "title": "Episode Title 23",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi23.mp4"
+  },
+   {
+    "episodeNumber": 24,
+    "title": "Episode Title 24",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi24.mp4"
+  },
+   {
+    "episodeNumber": 25,
+    "title": "Episode Title 25",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi25.mp4"
+  },
+   {
+    "episodeNumber": 26,
+    "title": "Episode Title 26",
+    "duration": "22:00",
+    "description": "Description of the episode.",
+    "link": "https://archive.org/download/d.remi17_20240913/Chd/Coll01/d.remi/d.remi26.mp4"
+  }
           ]
         }
       ]
