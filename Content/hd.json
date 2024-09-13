@@ -42,10 +42,10 @@
       ]
     },
     {
-      "title": "Cartoon 2",
-      "titleAr": "كارتون ٢",
-      "cartoonImage": "https://images-na.ssl-images-amazon.com/images/G/01/dvd/AE/DM1L._V391034618_.jpg",
-      "episodeImage": "https://hero-club.com/soundouts-top-8-favorite-digimon-series/", 
+      "title": "Remi",
+      "titleAr": "دروب ريمي",
+      "cartoonImage": "https://raw.githubusercontent.com/Cartoon-HD/Content/main/Icons/rimi.jpg",
+      "episodeImage": "https://image.tmdb.org/t/p/original/xRfFkSh29iHEFsEiZJKo3hezS3o.jpg", 
       "trailerLink": "https://example.com/trailer2.mp4",
       "mp3Link": "https://example.com/cartoon2.mp3",
       "seasons": [
